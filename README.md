@@ -2,7 +2,7 @@
   <a href="https://safdarjamal.github.io/quiz-app/">
     QuizApp
   </a>
-</h1>
+</h1> 
  
 <p align="center">
   <a href="https://github.com/SafdarJamal/quiz-app/actions?query=workflow%3A%22Node.js+CI%22">
